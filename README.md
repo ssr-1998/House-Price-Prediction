@@ -1,6 +1,4 @@
-House-Price-Prediction
-
-OVERVIEW OF MY PROJECT :
+OVERVIEW OF House-Price-Prediction :
 
   Predicting Sales Price of each House in Test Dataset using various Machine Learning Algorithms.
 
